@@ -1,0 +1,111 @@
+# 🚀 AI SEO Blog & Content Cluster Generator (Prompt Engineering Task 3)
+
+## 📌 Project Overview
+This project is part of **Future Interns – Prompt Engineering Task 3 (2026)**.
+
+The goal is to build an **AI-powered SEO content system** that generates:
+
+- SEO-optimized blog outlines (H1–H3)
+- Long-form pillar content
+- Supporting blog clusters
+- Local SEO content (city-based targeting)
+
+This system replicates how **real SEO agencies and SaaS companies plan content**.
+
+---
+
+## 🏪 Chosen Business
+**GlowUp Beauty Salon – Bhimavaram (Local Business)**  
+
+### 🎯 Target Audience:
+- Women (18–40)
+- Interested in skincare, haircare, beauty services
+- Searching for affordable & trusted salons in Bhimavaram
+
+---
+
+## 🎯 SEO Strategy
+
+### 🔑 Primary Keyword:
+**“Best Salon in Bhimavaram”**
+
+### 🔍 Search Intent:
+- Find a trusted salon nearby  
+- Compare services & pricing  
+- Check reviews and results  
+
+---
+
+## 🧱 Content Cluster Strategy
+
+### 🟢 Pillar Blog (Main Article)
+**“Best Salon in Bhimavaram – Services, Prices & What to Expect”**
+
+Purpose:
+- Target high-volume keyword  
+- Build authority  
+- Convert visitors into customers  
+
+---
+
+### 🔵 Supporting Blogs
+
+1. **“Facial Cost in Bhimavaram – Price Guide & Tips”**  
+2. **“Hair Smoothening vs Keratin – Which is Better?”**  
+3. **“How to Choose the Right Salon in Bhimavaram”**  
+4. **“Top Skincare Treatments for Glowing Skin”**  
+
+Purpose:
+- Target long-tail keywords  
+- Answer user queries  
+- Internally link to pillar blog  
+
+---
+
+## 📝 Pillar Blog Structure (SEO Optimized)
+
+### H1:
+Best Salon in Bhimavaram – Services, Prices & What to Expect
+
+### H2 Sections:
+- Why Choosing the Right Salon Matters  
+- Services Offered (Facials, Hair, Bridal, etc.)  
+- Price Comparison in Bhimavaram  
+- Benefits of Professional Salon Care  
+- Why Choose GlowUp Beauty Salon  
+
+### H3 Examples:
+- Facial Treatments Explained  
+- Hair Care Services Breakdown  
+- Skin Type Recommendations  
+
+---
+
+## 🔗 Internal Linking Strategy
+
+- Link supporting blogs → pillar blog  
+- Link pillar blog → service pages  
+- Cross-link related topics  
+
+Example:
+- Facial blog → links to main salon page  
+- Hair blog → links to keratin services  
+
+---
+
+## 🌍 Local SEO Optimization
+
+This project focuses on:
+
+- Location keyword: **Bhimavaram**  
+- Service + location targeting  
+  - “Facial in Bhimavaram”  
+  - “Hair salon near me”  
+- Natural keyword placement  
+- Local relevance for Google ranking  
+
+---
+
+## 🤖 Prompt System (Core Feature)
+
+### 🔹 Prompt 1: Generate SEO Blog Outline
